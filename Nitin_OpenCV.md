@@ -1,4 +1,4 @@
-#Machine Learning / Data Science
+# Machine Learning / Data Science
 
 ```
 Feature Engineering
@@ -17,7 +17,7 @@ Reinforcement Learning
 NLP
 ```
 
-#Deep Learning
+# Deep Learning
 ```
 Artificail Neural Networks
 Convolutional Neural Networks
